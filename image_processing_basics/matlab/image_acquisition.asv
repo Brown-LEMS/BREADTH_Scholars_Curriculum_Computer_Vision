@@ -1,0 +1,17 @@
+
+
+img = imread("data/0_00.png");
+img = rgb2gray(img);
+cropped_img = img(:,1:640);
+
+
+figure(1);
+imshow(cropped_img);
+
+figure(2);
+imhist(cropped_img);
+ylabel('number of pixels');
+title('image intensity histogram');
+
+
+cropped_img = cropped_img .* 1.5;
