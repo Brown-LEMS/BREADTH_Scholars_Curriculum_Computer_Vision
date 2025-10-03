@@ -4,6 +4,7 @@
 This repository hosts a collection of code for hands-on tutorials of Brown SoE BREADTH program curriculum on AI monitoring through computer vision. Topics include: image processing basics, camera pose estimation, object tracking, etc.
 
 ## Materials
+We provide all the source code introduced in the lecture in conjunction with the lecture slides. Both python and matlab versions of the code are supported.  You can access the python code through the following colab badges:
 ### Image Processing Basics
 - Image Pointwise Processing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/image_processing_basics/python/image_pointwise_processing.ipynb) <br />
