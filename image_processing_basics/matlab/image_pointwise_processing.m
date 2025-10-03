@@ -30,7 +30,7 @@ title('image intensity histogram');
 
 
 img_low_expo = double(img_low_expo);
-img_scaled = img_low_expo .* 5;
+img_scaled = img_low_expo .* 4.5;
 for i = 1:size(img_scaled, 1)
     for j = 1:size(img_scaled, 2)
         if img_scaled(i,j) > 255
