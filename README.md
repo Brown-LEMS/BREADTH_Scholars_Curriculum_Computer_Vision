@@ -11,6 +11,11 @@ https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_
 - Image Noise Removal by Convolution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/image_processing_basics/python/image_convolution.ipynb) 
 
+### Image Features and Feature Correspondences
+- Feature Detection: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_Detection_and_matching/python/feature_detection.ipynb) <br />
+
+
 ## Instructors
 Prof. Benjamin Kimia (benjamin\_kimia@brown.edu) <br />
 Chiang-Heng Chien (chiang-heng\_chien@brown.edu) <br />
