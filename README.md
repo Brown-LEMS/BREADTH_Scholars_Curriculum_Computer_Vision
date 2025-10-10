@@ -13,7 +13,9 @@ https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_
 
 ### Image Features and Feature Correspondences
 - Feature Detection: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_Detection_and_matching/python/feature_detection.ipynb) <br />
+https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_detection_and_matching/python/feature_detection.ipynb) <br />
+- Feature Matching: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_detection_and_matching/python/feature_matching.ipynb)
 
 
 ## Instructors
