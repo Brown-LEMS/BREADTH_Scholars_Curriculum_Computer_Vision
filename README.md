@@ -1,7 +1,7 @@
 # BREADTH Scholars Curriculum
 ### AI Monitoring Through Computer Vision | Brown University, School of Engineering
 
-This repository hosts a collection of code for hands-on tutorials of Brown SoE BREADTH program curriculum on AI monitoring through computer vision. Topics include: image processing basics, camera pose estimation, object tracking, etc.
+This repository hosts a collection of code for hands-on tutorials of Brown SoE BREADTH program curriculum on AI monitoring through computer vision. Topics include: image processing basics, image features and feature correspondences, object tracking, action detection and recognition, etc.
 
 ## Materials
 We provide all the source code introduced in the lecture in conjunction with the lecture slides. Both python and matlab versions of the code are supported.  You can access the python code through the following colab badges:
@@ -17,6 +17,8 @@ https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_
 - Feature Matching: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_detection_and_matching/python/feature_matching.ipynb)
 
+## TODO
+- [ ] Add MATLAB code for image feature detection and feature correspondence construction
 
 ## Instructors
 Prof. Benjamin Kimia (benjamin\_kimia@brown.edu) <br />
