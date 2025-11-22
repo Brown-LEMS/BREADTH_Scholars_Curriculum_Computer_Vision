@@ -17,10 +17,10 @@ https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_
 - Feature Matching: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/feature_detection_and_matching/python/feature_matching.ipynb)
 
-## Background Subtraction and Fall Detection Through Gait Parameters
-- Background Subtraction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+### Background Subtraction and Fall Detection Through Gait Parameters
+- Background Subtraction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/background_subtraction_and_fall_detection/python/background_subtraction.ipynb) <br />
-- Fall Detection Through Gait Parameters [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+- Fall Detection Through Gait Parameters: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/background_subtraction_and_fall_detection/python/human_gait_analysis_and_fall_detection.ipynb) 
 
 
