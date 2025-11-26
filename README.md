@@ -23,6 +23,9 @@ https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_
 - Fall Detection Through Gait Parameters: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/background_subtraction_and_fall_detection/python/human_gait_analysis_and_fall_detection.ipynb) 
 
+## Lab Assignments
+- Image processing basics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github.com/Brown-LEMS/BREADTH_Scholars_Curriculum_Computer_Vision/blob/main/Labs/Lab01_Image_Processing_Basics_and_Image_Convolution.ipynb) <br />
 
 ## TODO
 - [ ] Add MATLAB code for image feature detection and feature correspondence construction
