@@ -1,0 +1,74 @@
+{
+  "room_reference": {
+    "length_m": 9.0,
+    "width_m": 4.7,
+    "height_m": 2.8,
+    "notes": "Replace the matrices below with real multi-camera calibration results before relying on undistortion or 3D geometry."
+  },
+  "cameras": {
+    "cam1": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam2": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam3": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam4": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam5": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam6": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam7": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    },
+    "cam8": {
+      "resolution": [0, 0],
+      "camera_matrix": null,
+      "dist_coeffs": null,
+      "rotation": null,
+      "translation": null,
+      "frame_delay": 0
+    }
+  }
+}

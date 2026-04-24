@@ -1,0 +1,1328 @@
+{
+  "source_pdf": "/Users/crescent/Desktop/BREADTH/Kimia/technicalReport-2.pdf",
+  "position_codes": {
+    "1": {
+      "label": "walking_standing_up",
+      "description": "Walking, standing up"
+    },
+    "2": {
+      "label": "falling",
+      "description": "Falling"
+    },
+    "3": {
+      "label": "lying_on_ground",
+      "description": "Lying on the ground"
+    },
+    "4": {
+      "label": "crouching",
+      "description": "Crouching"
+    },
+    "5": {
+      "label": "moving_down",
+      "description": "Moving down"
+    },
+    "6": {
+      "label": "moving_up",
+      "description": "Moving up"
+    },
+    "7": {
+      "label": "sitting",
+      "description": "Sitting"
+    },
+    "8": {
+      "label": "lying_on_sofa",
+      "description": "Lying on a sofa"
+    },
+    "9": {
+      "label": "moving_horizontally",
+      "description": "Moving horizontaly"
+    }
+  },
+  "scenarios": {
+    "chute01": {
+      "report_scenario_number": 1,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 874,
+          "end_frame": 1011,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 1012,
+          "end_frame": 1079,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 1080,
+          "end_frame": 1108,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 1109,
+          "end_frame": 1285,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute02": {
+      "report_scenario_number": 2,
+      "camera_reference": 4,
+      "segments": [
+        {
+          "start_frame": 308,
+          "end_frame": 374,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 375,
+          "end_frame": 399,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 400,
+          "end_frame": 600,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute03": {
+      "report_scenario_number": 3,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 380,
+          "end_frame": 590,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 591,
+          "end_frame": 625,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 626,
+          "end_frame": 784,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute04": {
+      "report_scenario_number": 4,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 230,
+          "end_frame": 287,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 288,
+          "end_frame": 314,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 315,
+          "end_frame": 380,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        },
+        {
+          "start_frame": 381,
+          "end_frame": 600,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 601,
+          "end_frame": 638,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 639,
+          "end_frame": 780,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute05": {
+      "report_scenario_number": 5,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 288,
+          "end_frame": 310,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 311,
+          "end_frame": 336,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 337,
+          "end_frame": 450,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute06": {
+      "report_scenario_number": 6,
+      "camera_reference": 1,
+      "segments": [
+        {
+          "start_frame": 325,
+          "end_frame": 582,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 583,
+          "end_frame": 629,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 630,
+          "end_frame": 750,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute07": {
+      "report_scenario_number": 7,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 330,
+          "end_frame": 475,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 476,
+          "end_frame": 507,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 508,
+          "end_frame": 680,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute08": {
+      "report_scenario_number": 8,
+      "camera_reference": 4,
+      "segments": [
+        {
+          "start_frame": 144,
+          "end_frame": 270,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 271,
+          "end_frame": 298,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 299,
+          "end_frame": 380,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute09": {
+      "report_scenario_number": 9,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 310,
+          "end_frame": 472,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 473,
+          "end_frame": 505,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 506,
+          "end_frame": 576,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 577,
+          "end_frame": 627,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 628,
+          "end_frame": 651,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 652,
+          "end_frame": 760,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute10": {
+      "report_scenario_number": 10,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 315,
+          "end_frame": 461,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 462,
+          "end_frame": 511,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 512,
+          "end_frame": 530,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 531,
+          "end_frame": 680,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute11": {
+      "report_scenario_number": 11,
+      "camera_reference": 7,
+      "segments": [
+        {
+          "start_frame": 378,
+          "end_frame": 463,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 464,
+          "end_frame": 489,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 490,
+          "end_frame": 600,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute12": {
+      "report_scenario_number": 12,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 355,
+          "end_frame": 604,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 605,
+          "end_frame": 653,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 654,
+          "end_frame": 770,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute13": {
+      "report_scenario_number": 13,
+      "camera_reference": 4,
+      "segments": [
+        {
+          "start_frame": 301,
+          "end_frame": 430,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 431,
+          "end_frame": 476,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 477,
+          "end_frame": 525,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 526,
+          "end_frame": 636,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 637,
+          "end_frame": 717,
+          "position_code": 8,
+          "label": "lying_on_sofa",
+          "description": "Lying on a sofa"
+        },
+        {
+          "start_frame": 718,
+          "end_frame": 780,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 781,
+          "end_frame": 822,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 823,
+          "end_frame": 863,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 864,
+          "end_frame": 960,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute14": {
+      "report_scenario_number": 14,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 372,
+          "end_frame": 555,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 556,
+          "end_frame": 590,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 591,
+          "end_frame": 856,
+          "position_code": 8,
+          "label": "lying_on_sofa",
+          "description": "Lying on a sofa"
+        },
+        {
+          "start_frame": 857,
+          "end_frame": 934,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 935,
+          "end_frame": 988,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 989,
+          "end_frame": 1023,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 1024,
+          "end_frame": 1115,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute15": {
+      "report_scenario_number": 15,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 363,
+          "end_frame": 486,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 487,
+          "end_frame": 530,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 531,
+          "end_frame": 630,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 631,
+          "end_frame": 754,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 755,
+          "end_frame": 787,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 788,
+          "end_frame": 870,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute16": {
+      "report_scenario_number": 16,
+      "camera_reference": 4,
+      "segments": [
+        {
+          "start_frame": 380,
+          "end_frame": 455,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 456,
+          "end_frame": 488,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 489,
+          "end_frame": 530,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 531,
+          "end_frame": 568,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 569,
+          "end_frame": 629,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 630,
+          "end_frame": 645,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 646,
+          "end_frame": 670,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 671,
+          "end_frame": 731,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 732,
+          "end_frame": 817,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 818,
+          "end_frame": 890,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 891,
+          "end_frame": 940,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 941,
+          "end_frame": 1000,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute17": {
+      "report_scenario_number": 17,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 251,
+          "end_frame": 315,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 316,
+          "end_frame": 340,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 341,
+          "end_frame": 361,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 362,
+          "end_frame": 388,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 389,
+          "end_frame": 410,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 411,
+          "end_frame": 430,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 431,
+          "end_frame": 460,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 461,
+          "end_frame": 531,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 532,
+          "end_frame": 620,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 621,
+          "end_frame": 729,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 730,
+          "end_frame": 770,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 771,
+          "end_frame": 860,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute18": {
+      "report_scenario_number": 18,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 301,
+          "end_frame": 378,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 379,
+          "end_frame": 430,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 431,
+          "end_frame": 530,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 531,
+          "end_frame": 570,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 571,
+          "end_frame": 601,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 602,
+          "end_frame": 740,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute19": {
+      "report_scenario_number": 19,
+      "camera_reference": 10,
+      "segments": [
+        {
+          "start_frame": 255,
+          "end_frame": 498,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 499,
+          "end_frame": 600,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 601,
+          "end_frame": 770,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute20": {
+      "report_scenario_number": 20,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 301,
+          "end_frame": 544,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 545,
+          "end_frame": 672,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 673,
+          "end_frame": 800,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute21": {
+      "report_scenario_number": 21,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 408,
+          "end_frame": 537,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 538,
+          "end_frame": 608,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 609,
+          "end_frame": 794,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 795,
+          "end_frame": 863,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 864,
+          "end_frame": 901,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 902,
+          "end_frame": 1040,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute22": {
+      "report_scenario_number": 22,
+      "camera_reference": 1,
+      "segments": [
+        {
+          "start_frame": 317,
+          "end_frame": 586,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 587,
+          "end_frame": 685,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 686,
+          "end_frame": 737,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 738,
+          "end_frame": 766,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 767,
+          "end_frame": 808,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 809,
+          "end_frame": 930,
+          "position_code": 3,
+          "label": "lying_on_ground",
+          "description": "Lying on the ground"
+        }
+      ]
+    },
+    "chute23": {
+      "report_scenario_number": 23,
+      "camera_reference": 11,
+      "segments": [
+        {
+          "start_frame": 393,
+          "end_frame": 662,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 663,
+          "end_frame": 688,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 689,
+          "end_frame": 710,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 711,
+          "end_frame": 744,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 745,
+          "end_frame": 1519,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 1520,
+          "end_frame": 1595,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 1596,
+          "end_frame": 1661,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 1662,
+          "end_frame": 1730,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 1731,
+          "end_frame": 1769,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 1770,
+          "end_frame": 1839,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 1840,
+          "end_frame": 1886,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 1887,
+          "end_frame": 2645,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 2646,
+          "end_frame": 2698,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 2699,
+          "end_frame": 2958,
+          "position_code": 8,
+          "label": "lying_on_sofa",
+          "description": "Lying on a sofa"
+        },
+        {
+          "start_frame": 2959,
+          "end_frame": 3035,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 3036,
+          "end_frame": 3156,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 3157,
+          "end_frame": 3237,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 3238,
+          "end_frame": 3416,
+          "position_code": 8,
+          "label": "lying_on_sofa",
+          "description": "Lying on a sofa"
+        },
+        {
+          "start_frame": 3417,
+          "end_frame": 3573,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 3574,
+          "end_frame": 3614,
+          "position_code": 2,
+          "label": "falling",
+          "description": "Falling"
+        },
+        {
+          "start_frame": 3615,
+          "end_frame": 3745,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 3746,
+          "end_frame": 3795,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 3796,
+          "end_frame": 4042,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 4043,
+          "end_frame": 4105,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 4106,
+          "end_frame": 4204,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 4205,
+          "end_frame": 4264,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 4265,
+          "end_frame": 4440,
+          "position_code": 7,
+          "label": "sitting",
+          "description": "Sitting"
+        },
+        {
+          "start_frame": 4441,
+          "end_frame": 4527,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 4528,
+          "end_frame": 5200,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        }
+      ]
+    },
+    "chute24": {
+      "report_scenario_number": 24,
+      "camera_reference": 6,
+      "segments": [
+        {
+          "start_frame": 350,
+          "end_frame": 974,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 975,
+          "end_frame": 1315,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 1316,
+          "end_frame": 1351,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 1352,
+          "end_frame": 1414,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 1415,
+          "end_frame": 1450,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 1451,
+          "end_frame": 1750,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 1751,
+          "end_frame": 1805,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 1806,
+          "end_frame": 1844,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 1845,
+          "end_frame": 1884,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 1885,
+          "end_frame": 2490,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 2491,
+          "end_frame": 2514,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 2515,
+          "end_frame": 2563,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        },
+        {
+          "start_frame": 2564,
+          "end_frame": 2587,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 2588,
+          "end_frame": 3040,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 3041,
+          "end_frame": 3077,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 3078,
+          "end_frame": 3125,
+          "position_code": 6,
+          "label": "moving_up",
+          "description": "Moving up"
+        },
+        {
+          "start_frame": 3126,
+          "end_frame": 3243,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 3244,
+          "end_frame": 3353,
+          "position_code": 1,
+          "label": "walking_standing_up",
+          "description": "Walking, standing up"
+        },
+        {
+          "start_frame": 3354,
+          "end_frame": 3401,
+          "position_code": 5,
+          "label": "moving_down",
+          "description": "Moving down"
+        },
+        {
+          "start_frame": 3402,
+          "end_frame": 3500,
+          "position_code": 4,
+          "label": "crouching",
+          "description": "Crouching"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "dataset_root": "/Users/crescent/Desktop/BREADTH/Kimia/dataset",
+  "outputs_root": "/Users/crescent/Documents/Multi- Cam/outputs",
+  "default_chute": "chute01",
+  "cameras": [
+    "cam1",
+    "cam2",
+    "cam3",
+    "cam4",
+    "cam5",
+    "cam6",
+    "cam7",
+    "cam8"
+  ],
+  "calibration_file": "/Users/crescent/Documents/Multi- Cam/configs/calibration_breadth_report.json",
+  "pose_backend": "mediapipe",
+  "pose_confidence": 0.5,
+  "sample_every_n_frames": 1,
+  "max_frames": null,
+  "enable_feature_fundamental_matrix": true,
+  "use_calibration_fundamental_matrix": true,
+  "epipolar_threshold_px": 4.0,
+  "reprojection_threshold_px": 10.0,
+  "min_views_triangulation": 2,
+  "min_triangulation_angle_deg": 3.0,
+  "sync_reference_camera": "cam1",
+  "sync_signal_joint": "mid_shoulder",
+  "sync_search_radius": 20,
+  "prefer_sequence_delays": true,
+  "enable_postprocess": true,
+  "interpolation_gap_frames": 3,
+  "output_json_name": "reconstruction.json"
+}

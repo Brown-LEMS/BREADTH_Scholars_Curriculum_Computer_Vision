@@ -1,0 +1,5 @@
+numpy>=1.23
+opencv-contrib-python>=4.8
+mediapipe==0.10.9
+matplotlib>=3.7
+pypdf>=6.0
